@@ -1,0 +1,11 @@
+.menu_lateral_esq{
+    color:brown;
+    text-align: center;
+    border: 2px solid black;
+}
+
+.menu_lateral_dir{
+    color:rgb(99, 80, 206);
+    text-align: center;
+    border: 2px solid black;
+}
